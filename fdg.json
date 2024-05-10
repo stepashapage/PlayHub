@@ -164,9 +164,12 @@
             {
                 "nickname": "rain",
                 "name": "Хавард Найгаард",
-                "Image": "",
+                "Image": "https://img-cdn.hltv.org/playerbodyshot/me3Q2ue15YY77MF7dR5Acj.png?ixlib=java-2.1.0&w=400&s=ac072a05cdd8a214df94718b987da5eb",
                 "age": 29,
-                "nationality": { "country": "Норвегия", "img": "" },
+                "nationality": {
+                    "country": "Норвегия",
+                    "img": "https://www.hltv.org/img/static/flags/30x20/NO.gif"
+                },
                 "status": "Активный",
                 "role": "Рифлер",
                 "team": "Faze Clan",
@@ -313,6 +316,513 @@
                     "В своей карьере broky уже добился значительных успехов, выиграв несколько крупных чемпионатов и турниров вместе со своей командой.",
                     "Он специализируется на роли стрелка и обладает впечатляющим мастерством в использовании различного вооружения в игре, что делает его одним из ключевых игроков своей команды."
                 ],
+                "players": [
+                    {
+                        "nickname": "apEX",
+                        "name": "Dan Madesclaire",
+                        "Image": "",
+                        "age": 31,
+                        "nationality": { "country": "Франция", "img": "" },
+                        "status": "Активный",
+                        "role": "Капитан",
+                        "team": "Vitality",
+                        "alternate_nickname": "apx",
+                        "total_earnings": "$1,460,628",
+                        "interesting_facts": [
+                            "apEX известен своим агрессивным стилем игры, который часто помогает его команде доминировать на карте. Он часто играет на позиции рифлера и является ключевым игроком в своей команде.",
+                            "Он является одним из самых опытных игроков в мире CS:GO и играл на высоком уровне на протяжении многих лет.",
+                            "За время своей карьеры apEX выиграл множество крупных турниров и привлек внимание своими выдающимися игровыми навыками."
+                        ],
+                        "recent_news": [
+                            "ZywOo обгоняет Vitality BetBoom и выходит в плей-офф EPL",
+                            "Vitality уничтожит Cloud9, чтобы обеспечить себе место в полуфинале",
+                            "flameZ: 'Я жажду выиграть Major и получить значок на своей странице HLTV'"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.0,
+                            "IMPACT": 1.06,
+                            "DPR": 0.7,
+                            "ADR": 77.4,
+                            "KAST": 68.2,
+                            "KPR": 0.7
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Complexity",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Cloud9",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "BIG",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "ZywOo",
+                        "name": "Mathieu Herbaut",
+                        "Image": "",
+                        "age": 23,
+                        "nationality": { "country": "Франция", "img": "" },
+                        "status": "Активный",
+                        "role": "AWPer",
+                        "team": "Vitality",
+                        "alternate_nickname": "Herbus Doubledoor",
+                        "total_earnings": "$978,874",
+                        "interesting_facts": [
+                            "ZywOo считается одним из лучших игроков в мире CS:GO и часто называется одним из лучших стрелков в истории игры.",
+                            "Он стал известным благодаря своему феноменальному мастерству в игре, высокому уровню индивидуальной игры и способности решать сложные игровые ситуации.",
+                            "За свою карьеру ZywOo выиграл несколько крупных турниров и был удостоен титула MVP на многих престижных турнирах, что подчеркивает его величие как игрока."
+                        ],
+                        "recent_news": [
+                            "ZywOo обгоняет Vitality BetBoom и выходит в плей-офф EPL",
+                            "Vitality уничтожит Cloud9, чтобы обеспечить себе место в полуфинале",
+                            "flameZ: 'Я жажду выиграть Major и получить значок на своей странице HLTV'"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.32,
+                            "IMPACT": 1.43,
+                            "DPR": 0.61,
+                            "ADR": 87.4,
+                            "KAST": 75.3,
+                            "KPR": 0.84
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Complexity",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Cloud9",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "BIG",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "flameZ",
+                        "name": "Shahar Shushan",
+                        "Image": "",
+                        "age": 20,
+                        "nationality": { "country": "Израиль", "img": "" },
+                        "status": "Активный",
+                        "role": "Рифлер",
+                        "team": "Vitality",
+                        "alternate_nickname": "flameZ",
+                        "total_earnings": "$397,705",
+                        "interesting_facts": [
+                            "ZywOo считается одним из лучших игроков в мире CS:GO и часто называется одним из лучших стрелков в истории игры.",
+                            "Он стал известным благодаря своему феноменальному мастерству в игре, высокому уровню индивидуальной игры и способности решать сложные игровые ситуации.",
+                            "За свою карьеру ZywOo выиграл несколько крупных турниров и был удостоен титула MVP на многих престижных турнирах, что подчеркивает его величие как игрока."
+                        ],
+                        "recent_news": [
+                            "ZywOo обгоняет Vitality BetBoom и выходит в плей-офф EPL",
+                            "Vitality уничтожит Cloud9, чтобы обеспечить себе место в полуфинале",
+                            "flameZ: 'Я жажду выиграть Major и получить значок на своей странице HLTV'"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.12,
+                            "IMPACT": 1.15,
+                            "DPR": 0.66,
+                            "ADR": 78.4,
+                            "KAST": 72.3,
+                            "KPR": 0.71
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Complexity",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Cloud9",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "BIG",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "Spinx",
+                        "name": "Lotan Giladi",
+                        "Image": "",
+                        "age": 23,
+                        "nationality": { "country": "Израиль", "img": "" },
+                        "status": "Активный",
+                        "role": "Рифлер",
+                        "team": "Vitality",
+                        "alternate_nickname": "Spinx",
+                        "total_earnings": "$590,543",
+                        "interesting_facts": [
+                            "ZywOo считается одним из лучших игроков в мире CS:GO и часто называется одним из лучших стрелков в истории игры.",
+                            "Он стал известным благодаря своему феноменальному мастерству в игре, высокому уровню индивидуальной игры и способности решать сложные игровые ситуации.",
+                            "За свою карьеру ZywOo выиграл несколько крупных турниров и был удостоен титула MVP на многих престижных турнирах, что подчеркивает его величие как игрока."
+                        ],
+                        "recent_news": [
+                            "ZywOo обгоняет Vitality BetBoom и выходит в плей-офф EPL",
+                            "Vitality уничтожит Cloud9, чтобы обеспечить себе место в полуфинале",
+                            "flameZ: 'Я жажду выиграть Major и получить значок на своей странице HLTV'"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.13,
+                            "IMPACT": 1.11,
+                            "DPR": 0.64,
+                            "ADR": 77.4,
+                            "KAST": 72.3,
+                            "KPR": 0.73
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Complexity",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Cloud9",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "BIG",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "mezii",
+                        "name": "William Merriman",
+                        "Image": "",
+                        "age": 25,
+                        "nationality": {
+                            "country": "Великобритания",
+                            "img": ""
+                        },
+                        "status": "Активный",
+                        "role": "Рифлер",
+                        "team": "Vitality",
+                        "alternate_nickname": "kingmezii",
+                        "total_earnings": "$289,156",
+                        "interesting_facts": [
+                            "ZywOo считается одним из лучших игроков в мире CS:GO и часто называется одним из лучших стрелков в истории игры.",
+                            "Он стал известным благодаря своему феноменальному мастерству в игре, высокому уровню индивидуальной игры и способности решать сложные игровые ситуации.",
+                            "За свою карьеру ZywOo выиграл несколько крупных турниров и был удостоен титула MVP на многих престижных турнирах, что подчеркивает его величие как игрока."
+                        ],
+                        "recent_news": [
+                            "ZywOo обгоняет Vitality BetBoom и выходит в плей-офф EPL",
+                            "Vitality уничтожит Cloud9, чтобы обеспечить себе место в полуфинале",
+                            "flameZ: 'Я жажду выиграть Major и получить значок на своей странице HLTV'"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.12,
+                            "IMPACT": 1.06,
+                            "DPR": 0.63,
+                            "ADR": 78.4,
+                            "KAST": 73.3,
+                            "KPR": 0.7
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Complexity",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Cloud9",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "BIG",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nickname": "Heroic",
+                "bgcolor": "#FE1111",
+                "region": "Европа",
+                "description": "Heroic - киберспортивная организация из Европы.",
+                "logo": "https://i.postimg.cc/xdFGPWS4/Heroic.png",
+                "img1": "https://i.postimg.cc/Wp9Vw8DJ/1-OGQuzg-Hj-Qm-Iv-G1o97-Cht-1.png",
+                "img2": "https://i.postimg.cc/gknWShRt/G1-N-e3-Ph-p-Md-ZG6ud-7mz-J-1.png",
+                "img3": "https://i.postimg.cc/dtpKz0js/p-h-CD0-Aq-Ls-H-G5-UUoo-Hqy6-1.png",
+                "tournaments": [
+                    {
+                        "date": "2023-12-15",
+                        "place": 3,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "CS Asia Championships 2023"
+                        },
+                        "result": {
+                            "score": "2-1",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    },
+                    {
+                        "date": "2023-11-20",
+                        "place": 9,
+                        "level": "A-Tier",
+                        "type": "Онлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Thunderpick World Championship 2023"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$500,000"
+                    },
+                    {
+                        "date": "2023-10-10",
+                        "place": 12,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ESL Pro League Season 17"
+                        },
+                        "result": {
+                            "score": "1-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$800,000"
+                    },
+                    {
+                        "date": "2023-09-05",
+                        "place": 10,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Grand Slam Season 4"
+                        },
+                        "result": {
+                            "score": "2-0",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,200,000"
+                    },
+                    {
+                        "date": "2023-08-01",
+                        "place": 12,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Extreme Masters XVII - Cologne"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,500,000"
+                    },
+                    {
+                        "date": "2022-12-15",
+                        "place": 4,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "PGL Major Antwerp 2022"
+                        },
+                        "result": {
+                            "score": "2-0",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    },
+                    {
+                        "date": "2022-10-10",
+                        "place": 4,
+                        "level": "S-Tier",
+                        "type": "Онлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ESL Pro League Season 15"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$800,000"
+                    },
+                    {
+                        "date": "2022-08-01",
+                        "place": 5,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Extreme Masters XVI - Katowice"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,500,000"
+                    },
+                    {
+                        "date": "2022-06-15",
+                        "place": 1,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Esports Championship Series Season 4 Finals"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,200,000"
+                    },
+                    {
+                        "date": "2017-10-15",
+                        "place": 7,
+                        "level": "Premier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ELEAGUE Premier 2017"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    }
+                ],
                 "recent_news": [
                     "FaZe выходят в плей-офф Pro League над Eternal Fire",
                     "Вице-президент FaZe переводит команду в стадию 'Последнего шанса' группы A.",
@@ -362,6 +872,672 @@
                         "NameTournament": "IEM Katowice 2024",
                         "MatchScore": "0:3",
                         "Result": false
+                    }
+                ]
+            },
+            {
+                "nickname": "Complexity",
+                "bgcolor": "#0066FF",
+                "region": "Европа",
+                "description": "Complexity - киберспортивная организация из Европы.",
+                "logo": "https://i.postimg.cc/3R4Xfn8J/Complexity-Gaming.png",
+                "img1": "https://i.postimg.cc/BnFGsGmx/8-Xtrz-GBXkg8by-Hh-Is36v-Cw-1.png",
+                "img2": "https://i.postimg.cc/jjrYSk1B/22m-TCVV3-FEF40j3paqss0e-1.png",
+                "img3": "https://i.postimg.cc/mrNfzyfk/tbv-Qz-Zo3c-Ov-Cj-E5jyucoce-1.png",
+                "tournaments": [
+                    {
+                        "date": "2023-12-15",
+                        "place": 3,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "CS Asia Championships 2023"
+                        },
+                        "result": {
+                            "score": "2-1",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    },
+                    {
+                        "date": "2023-11-20",
+                        "place": 9,
+                        "level": "A-Tier",
+                        "type": "Онлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Thunderpick World Championship 2023"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$500,000"
+                    },
+                    {
+                        "date": "2023-10-10",
+                        "place": 12,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ESL Pro League Season 17"
+                        },
+                        "result": {
+                            "score": "1-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$800,000"
+                    },
+                    {
+                        "date": "2023-09-05",
+                        "place": 10,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Grand Slam Season 4"
+                        },
+                        "result": {
+                            "score": "2-0",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,200,000"
+                    },
+                    {
+                        "date": "2023-08-01",
+                        "place": 12,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Extreme Masters XVII - Cologne"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,500,000"
+                    },
+                    {
+                        "date": "2022-12-15",
+                        "place": 4,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "PGL Major Antwerp 2022"
+                        },
+                        "result": {
+                            "score": "2-0",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    },
+                    {
+                        "date": "2022-10-10",
+                        "place": 4,
+                        "level": "S-Tier",
+                        "type": "Онлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ESL Pro League Season 15"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$800,000"
+                    },
+                    {
+                        "date": "2022-08-01",
+                        "place": 5,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Extreme Masters XVI - Katowice"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,500,000"
+                    },
+                    {
+                        "date": "2022-06-15",
+                        "place": 1,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Esports Championship Series Season 4 Finals"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,200,000"
+                    },
+                    {
+                        "date": "2017-10-15",
+                        "place": 7,
+                        "level": "Premier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ELEAGUE Premier 2017"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    }
+                ],
+                "players": [
+                    {
+                        "nickname": "JT",
+                        "name": "Ioannis Theodosiou",
+                        "Image": "",
+                        "age": 25,
+                        "nationality": { "country": "ЮАР", "img": "" },
+                        "status": "Активный",
+                        "role": "Капитан",
+                        "team": "Complexity",
+                        "alternate_nickname": "JT",
+                        "total_earnings": "$195,507",
+                        "interesting_facts": [
+                            "TeSeS известен своими выдающимися игровыми навыками и способностью эффективно работать в команде. Он часто занимает роль рифлера и является ключевым игроком в своей команде.",
+                            "Он достиг значительных успехов в мире CS:GO, выиграв несколько крупных турниров и турниров вместе со своей командой.",
+                            "TeSeS привлекает внимание к своему игровому стилю и постоянно демонстрирует высокий уровень профессионализма на соревновательной арене."
+                        ],
+                        "recent_news": [
+                            "EliGE: 'Все думают, что ты отстой, пока не выиграешь'",
+                            "EliGE увеличивает сложность игры со счетом 2: 0 над HEROIC",
+                            "Места в плей-офф EPL по сложности и навигации"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.0,
+                            "IMPACT": 0.98,
+                            "DPR": 0.68,
+                            "ADR": 70.4,
+                            "KAST": 70.3,
+                            "KPR": 0.63
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Vitality",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Natus Vincere",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "0:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Heroic",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "EliGE",
+                        "name": "Jonathan David Jablonowski",
+                        "Image": "",
+                        "age": 26,
+                        "nationality": { "country": "США", "img": "" },
+                        "status": "Активный",
+                        "role": "Рифлер",
+                        "team": "Complexity",
+                        "alternate_nickname": "EliGE",
+                        "total_earnings": "$1,203,782",
+                        "interesting_facts": [
+                            "EliGE является одним из самых талантливых игроков в мире CS:GO. Он известен своими выдающимися игровыми навыками и способностью принимать верные решения в сложных игровых ситуациях.",
+                            "Он выиграл множество крупных турниров и турниров вместе со своей командой Team Liquid, что подтверждает его высокий уровень профессионализма.",
+                            "EliGE часто занимает роль рифлера в своей команде и является ключевым игроком в достижении успеха на мировой арене CS:GO."
+                        ],
+                        "recent_news": [
+                            "EliGE: 'Все думают, что ты отстой, пока не выиграешь'",
+                            "EliGE увеличивает сложность игры со счетом 2: 0 над HEROIC",
+                            "Места в плей-офф EPL по сложности и навигации"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.08,
+                            "IMPACT": 1.23,
+                            "DPR": 0.68,
+                            "ADR": 83.4,
+                            "KAST": 71.3,
+                            "KPR": 0.75
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Vitality",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Natus Vincere",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "0:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Heroic",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "hallzerk",
+                        "name": "Jonathan David Jablonowski",
+                        "Image": "",
+                        "age": 23,
+                        "nationality": { "country": "Норвегия", "img": "" },
+                        "status": "Активный",
+                        "role": "AWPer",
+                        "team": "Complexity",
+                        "alternate_nickname": "hzk",
+                        "total_earnings": "$103,139",
+                        "interesting_facts": [
+                            "hallzerk известен своим выдающимся мастерством в обращении с AWP. Его точные выстрелы и умение контролировать карту делают его одним из лучших AWP-стрелков в мире CS:GO.",
+                            "Он являлся членом команды NIP (Ninjas in Pyjamas) и играет в роли основного AWP-стрелка. Своим профессионализмом и уникальным стилем игры hallzerk приносит ценный вклад в успех своей команды.",
+                            "hallzerk также известен своей агрессивной игрой и способностью доминировать на карте, что делает его одним из самых опасных игроков для противника."
+                        ],
+                        "recent_news": [
+                            "EliGE: 'Все думают, что ты отстой, пока не выиграешь'",
+                            "EliGE увеличивает сложность игры со счетом 2: 0 над HEROIC",
+                            "Места в плей-офф EPL по сложности и навигации"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.08,
+                            "IMPACT": 1.12,
+                            "DPR": 0.64,
+                            "ADR": 72.4,
+                            "KAST": 70.3,
+                            "KPR": 0.71
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Vitality",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Natus Vincere",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "0:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Heroic",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "Grim",
+                        "name": "Michael Vance Wince",
+                        "Image": "",
+                        "age": 23,
+                        "nationality": { "country": "США", "img": "" },
+                        "status": "Активный",
+                        "role": "Рифлер",
+                        "team": "Complexity",
+                        "alternate_nickname": "1grim",
+                        "total_earnings": "$239,857",
+                        "interesting_facts": [
+                            "Grim является одним из молодых и перспективных игроков в мире CS:GO. Его талант и потенциал вызывают внимание киберспортивного сообщества.",
+                            "Он известен своими выдающимися игровыми навыками, особенно в роли рифлера. Его точные выстрелы и умение принимать верные тактические решения помогают его команде добиваться успеха.",
+                            "За короткое время своей карьеры в CS:GO Grim уже добился заметных результатов, привлекая внимание к своему игровому стилю и способности приспосабливаться к различным игровым ситуациям."
+                        ],
+                        "recent_news": [
+                            "EliGE: 'Все думают, что ты отстой, пока не выиграешь'",
+                            "EliGE увеличивает сложность игры со счетом 2: 0 над HEROIC",
+                            "Места в плей-офф EPL по сложности и навигации"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.1,
+                            "IMPACT": 1.11,
+                            "DPR": 0.68,
+                            "ADR": 78.4,
+                            "KAST": 71.3,
+                            "KPR": 0.72
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Vitality",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Natus Vincere",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "0:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Heroic",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    },
+                    {
+                        "nickname": "floppy",
+                        "name": "Ricky Kemery",
+                        "Image": "",
+                        "age": 24,
+                        "nationality": { "country": "США", "img": "" },
+                        "status": "Активный",
+                        "role": "Рифлер",
+                        "team": "Complexity",
+                        "alternate_nickname": "1grim",
+                        "total_earnings": "$146,085",
+                        "interesting_facts": [
+                            "floppy известен своим выдающимся мастерством в обращении с рифлом. Его точные выстрелы и умение контролировать игровое пространство делают его одним из ведущих игроков в мире CS:GO.",
+                            "Он является ключевым игроком в своей команде и часто занимает роль рифлера, выполняя важные задачи на карте и помогая своей команде добиваться успеха.",
+                            "floppy уже добился заметных результатов в своей карьере, выиграв несколько крупных турниров и привлекая внимание своими выдающимися игровыми навыками."
+                        ],
+                        "recent_news": [
+                            "EliGE: 'Все думают, что ты отстой, пока не выиграешь'",
+                            "EliGE увеличивает сложность игры со счетом 2: 0 над HEROIC",
+                            "Места в плей-офф EPL по сложности и навигации"
+                        ],
+                        "recent_titles": ["", "", "", "", "", ""],
+                        "rating": {
+                            "Rating 1.0": 1.12,
+                            "IMPACT": 1.09,
+                            "DPR": 0.66,
+                            "ADR": 79.4,
+                            "KAST": 72.9,
+                            "KPR": 0.71
+                        },
+                        "recent_matches": [
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Vitality",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "G2",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:1",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Faze Clan",
+                                "NameTournament": "ESL Pro League Season 19",
+                                "MatchScore": "2:0",
+                                "Result": true
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Natus Vincere",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "0:2",
+                                "Result": false
+                            },
+                            {
+                                "imgTeams": "",
+                                "NameTeams": "Heroic",
+                                "NameTournament": "PGL CS2 Major Copenhagen 2024",
+                                "MatchScore": "1:2",
+                                "Result": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nickname": "G2 Esports",
+                "bgcolor": "#E4FFFF",
+                "region": "Европа",
+                "description": "G2 Esports - киберспортивная организация из Европы.",
+                "logo": "https://i.postimg.cc/PxgmgYJb/G2.png",
+                "img1": "https://i.postimg.cc/YqRhBYy6/xp-ASqo5a-Fm-Tncd-PUak-KKY-1.png",
+                "img2": "https://i.postimg.cc/wjB3qMSS/Yl-P083ozaa-Yqo-GM8wp-Nx0-1.png",
+                "img3": "https://i.postimg.cc/L805nRSh/3g-Vw-OAUD23-Hsqqczl00f-IZ-1.png",
+                "tournaments": [
+                    {
+                        "date": "2023-12-15",
+                        "place": 3,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "CS Asia Championships 2023"
+                        },
+                        "result": {
+                            "score": "2-1",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    },
+                    {
+                        "date": "2023-11-20",
+                        "place": 9,
+                        "level": "A-Tier",
+                        "type": "Онлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Thunderpick World Championship 2023"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$500,000"
+                    },
+                    {
+                        "date": "2023-10-10",
+                        "place": 12,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ESL Pro League Season 17"
+                        },
+                        "result": {
+                            "score": "1-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$800,000"
+                    },
+                    {
+                        "date": "2023-09-05",
+                        "place": 10,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Grand Slam Season 4"
+                        },
+                        "result": {
+                            "score": "2-0",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,200,000"
+                    },
+                    {
+                        "date": "2023-08-01",
+                        "place": 12,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Extreme Masters XVII - Cologne"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,500,000"
+                    },
+                    {
+                        "date": "2022-12-15",
+                        "place": 4,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "PGL Major Antwerp 2022"
+                        },
+                        "result": {
+                            "score": "2-0",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
+                    },
+                    {
+                        "date": "2022-10-10",
+                        "place": 4,
+                        "level": "S-Tier",
+                        "type": "Онлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ESL Pro League Season 15"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$800,000"
+                    },
+                    {
+                        "date": "2022-08-01",
+                        "place": 5,
+                        "level": "Major",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Intel Extreme Masters XVI - Katowice"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,500,000"
+                    },
+                    {
+                        "date": "2022-06-15",
+                        "place": 1,
+                        "level": "S-Tier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "Esports Championship Series Season 4 Finals"
+                        },
+                        "result": {
+                            "score": "1-3",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,200,000"
+                    },
+                    {
+                        "date": "2017-10-15",
+                        "place": 7,
+                        "level": "Premier",
+                        "type": "Офлайн",
+                        "name": {
+                            "img": "",
+                            "title": "ELEAGUE Premier 2017"
+                        },
+                        "result": {
+                            "score": "0-2",
+                            "img": ""
+                        },
+                        "prize_pool": "$1,000,000"
                     }
                 ]
             },
@@ -2525,9 +3701,9 @@
         "region": "Европа",
         "description": "Heroic - киберспортивная организация из Европы.",
         "logo": "https://i.postimg.cc/xdFGPWS4/Heroic.png",
-        "img1": "https://i.postimg.cc/Wp9Vw8DJ/1-OGQuzg-Hj-Qm-Iv-G1o97-Cht-1.png",
-        "img2": "https://i.postimg.cc/gknWShRt/G1-N-e3-Ph-p-Md-ZG6ud-7mz-J-1.png",
-        "img3": "https://i.postimg.cc/dtpKz0js/p-h-CD0-Aq-Ls-H-G5-UUoo-Hqy6-1.png",
+        "img1": "",
+        "img2": "",
+        "img3": "",
         "tournaments": [
             {
                 "date": "2023-12-15",
@@ -3029,9 +4205,9 @@
         "region": "Европа",
         "description": "Complexity - киберспортивная организация из Европы.",
         "logo": "https://i.postimg.cc/3R4Xfn8J/Complexity-Gaming.png",
-        "img1": "https://i.postimg.cc/BnFGsGmx/8-Xtrz-GBXkg8by-Hh-Is36v-Cw-1.png",
-        "img2": "https://i.postimg.cc/jjrYSk1B/22m-TCVV3-FEF40j3paqss0e-1.png",
-        "img3": "https://i.postimg.cc/mrNfzyfk/tbv-Qz-Zo3c-Ov-Cj-E5jyucoce-1.png",
+        "img1": "",
+        "img2": "",
+        "img3": "",
         "tournaments": [
             {
                 "date": "2023-12-15",
@@ -3533,9 +4709,9 @@
         "region": "Европа",
         "description": "G2 Esports - киберспортивная организация из Европы.",
         "logo": "https://i.postimg.cc/PxgmgYJb/G2.png",
-        "img1": "https://i.postimg.cc/YqRhBYy6/xp-ASqo5a-Fm-Tncd-PUak-KKY-1.png",
-        "img2": "https://i.postimg.cc/wjB3qMSS/Yl-P083ozaa-Yqo-GM8wp-Nx0-1.png",
-        "img3": "https://i.postimg.cc/L805nRSh/3g-Vw-OAUD23-Hsqqczl00f-IZ-1.png",
+        "img1": "",
+        "img2": "",
+        "img3": "",
         "tournaments": [
             {
                 "date": "2023-12-15",
